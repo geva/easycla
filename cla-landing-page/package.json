@@ -58,7 +58,7 @@
     "rxjs": "~6.5.4",
     "serverless": "^2.15.0",
     "serverless-aws-alias": "^1.8.0",
-    "serverless-cloudfront-invalidate": "^1.5.0",
+    "serverless-cloudfront-invalidate": "^1.9.0",
     "serverless-finch": "^2.6.0",
     "serverless-lambda-version": "^0.1.2",
     "serverless-plugin-tracing": "^2.0.0",
